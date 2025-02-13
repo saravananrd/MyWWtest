@@ -1,0 +1,6 @@
+class="cartology-gam-ad cartology-product-cig-tile ng-star-inserted"
+       cartology-product-cig-tile cartology-gam-ad
+
+
+Yes, I'd like to receive communications, exclusive promo codes and special offers via email
+
